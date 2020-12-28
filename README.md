@@ -4,7 +4,7 @@ A Netflix clone built using React. It fetches the data from TMDB (The Movie Data
 
 ## Author
 
-Anurag Sharan (sharananurag998)
+Sanchit Bhadgal (sanchit36)
 
 ## Demo
 
