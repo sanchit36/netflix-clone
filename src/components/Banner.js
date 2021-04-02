@@ -15,7 +15,7 @@ function Banner() {
         return data;
       }
       fetData();
-    }, 5000);
+    }, 10000);
     return () => clearInterval(id);
   }, []);
 
