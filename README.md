@@ -8,4 +8,4 @@ Sanchit Bhadgal (sanchit36)
 
 ## Demo
 
-The app is deployed at [NetFlix React Clone](https://netflix-clone-sanchit36.netlify.app/).
+The app is deployed at [NetFlix React Clone](https://netflix-sanchit36.netlify.app/).
